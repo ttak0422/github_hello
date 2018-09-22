@@ -3,4 +3,4 @@ tak
 mizuho
 :hello
 agou
-:
+:conflict
